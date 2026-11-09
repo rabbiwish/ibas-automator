@@ -1,0 +1,5 @@
+{
+  "latest_version": "2.1.0",
+  "download_url": "https://github.com/rabbiwish/ibas-automator/releases/download/v2.1.0/iBAS_Automator_Setup.exe",
+  "release_notes": "১. iBAS++ Workflow Automator v2.1.0 আপডেট\n২. শুধু প্রয়োজনীয় ওয়ার্কফ্লো (Online Pay Bill, Pay Fixation ও Fast Approve) সংরক্ষণ এবং অপ্রয়োজনীয় টেমপ্লেট অপসারণ\n৩. ওয়ার্কফ্লো অনুযায়ী ডাইনামিক UI (পে বিল ছাড়া অন্য ফিচারে DDO বক্স ও অতিরিক্ত বাটন হাইড)\n৪. ব্রাউজারের ভেতরের ফ্লোটিং পপআপ অপসারণ"
+}

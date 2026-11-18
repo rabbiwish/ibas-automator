@@ -1,5 +1,5 @@
 {
-  "latest_version": "3.0.0",
-  "download_url": "https://github.com/rabbiwish/ibas-automator/releases/download/v3.0.0/iBAS_Automator_Setup.exe",
-  "release_notes": "১. iBAS++ Workflow Automator v3.0.0 মেজর রিলিজ\n২. নতুন ফিচার: Staff Bill Approval (DDO ভিত্তিক অটো-স্ক্যান, Cancel দিয়ে DDO আনলক, ক্লিকেবল Approve বাটন ফিল্টারিং)\n৩. 'No bill found for approve.' পপআপ অটো-হ্যান্ডলিং এবং YES/NO কনফার্মেশন ওয়ার্কফ্লো\n৪. এপ্রুভাল শেষে সফল বিল এবং ব্যর্থ বিলের (সুনির্দিষ্ট এরর মেসেজসহ) পূর্ণাঙ্গ তালিকা ও CSV রিপোর্ট"
+  "latest_version": "3.0.1",
+  "download_url": "https://github.com/rabbiwish/ibas-automator/releases/download/v3.0.1/iBAS_Automator_Setup.exe",
+  "release_notes": "১. iBAS++ Workflow Automator v3.0.1 (হটফিক্স ও স্পিড আপগ্রেড)\n২. লাইভ iBAS++ Staff Bill পেজের #POST_ID, #btnGo এবং #btnCancel পূর্ণাঙ্গ সাপোর্ট\n৩. 'No bill found for approve.' পপআপের OK বাটন স্কিপ হওয়ার সমস্যা স্থায়ীভাবে সমাধান\n৪. সম্পূর্ণ লোড-বেজড ইঞ্জিন (.loader-wrapper + AJAX + DOM সিঙ্ক) — সার্ভার ফাস্ট হলে তাৎক্ষণিক অ্যাকশন এবং স্লো হলে লোড শেষ হওয়া পর্যন্ত নিরাপদ অপেক্ষা\n৫. অটো-আপডেটারে Smart Fallback (Setup ও Portable উভয় .exe সাপোর্ট)"
 }

@@ -1,5 +1,5 @@
 {
-  "latest_version": "3.0.1",
-  "download_url": "https://github.com/rabbiwish/ibas-automator/releases/download/v3.0.1/iBAS_Automator_Setup.exe",
-  "release_notes": "১. iBAS++ Workflow Automator v3.0.1 (হটফিক্স ও স্পিড আপগ্রেড)\n২. লাইভ iBAS++ Staff Bill পেজের #POST_ID, #btnGo এবং #btnCancel পূর্ণাঙ্গ সাপোর্ট\n৩. 'No bill found for approve.' পপআপের OK বাটন স্কিপ হওয়ার সমস্যা স্থায়ীভাবে সমাধান\n৪. সম্পূর্ণ লোড-বেজড ইঞ্জিন (.loader-wrapper + AJAX + DOM সিঙ্ক) — সার্ভার ফাস্ট হলে তাৎক্ষণিক অ্যাকশন এবং স্লো হলে লোড শেষ হওয়া পর্যন্ত নিরাপদ অপেক্ষা\n৫. অটো-আপডেটারে Smart Fallback (Setup ও Portable উভয় .exe সাপোর্ট)"
+  "latest_version": "3.1.0",
+  "download_url": "https://github.com/rabbiwish/ibas-automator/releases/download/v3.1.0/iBAS_Automator_Setup.exe",
+  "release_notes": "১. iBAS++ Workflow Automator v3.1.0 (Post-Approval EFT Order Automation)\n২. Online Pay Bill Approval শেষে অনুমোদিত স্পেসিফিক DDO গুলোতে স্বয়ংক্রিয় EFT Order (EFT Ref Number) তৈরির অনুমতি ও কন্টিনিউয়েশন ফ্লো\n৩. বাম পাশের সাইডবার ও ড্রপডাউনে আলাদা 'EFT Order Entry' মডিউল যুক্ত\n৪. লাইভ iBAS++ EFT ORDER (#/accounts/eft/eftorder) প্যারামিটার ডায়ালগ (Fiscal Year, Month, Ministry, Payee Type, Entry Status, Set Payment Date)\n৫. স্বয়ংক্রিয় Apply All, শুধু Pay Bill for Officers (31111XX,31113XX) ফিল্টারিং, Ok কনফার্মেশন, পেজিনেশন ও EFT Ref Number ক্যাপচার + CSV রিপোর্ট"
 }
